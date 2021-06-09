@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290316828206",
+    "project_id": "niftyfiftytraders-android",
+    "storage_bucket": "niftyfiftytraders-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290316828206:android:422339d1fbec65f3fae9bf",
+        "android_client_info": {
+          "package_name": "com.nft.niftyfiftytraders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290316828206-9bfqksrssnd5p67i8nofpc50v8dkqs76.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nft.niftyfiftytraders",
+            "certificate_hash": "0a0d3852517ebc17ffe294a8a8c7411a9fbc1cd5"
+          }
+        },
+        {
+          "client_id": "290316828206-gtvei14klb8t9opf306luii519qv47st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClVB-mbq1b4QSqri-cDvs9FiSi6M55_7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290316828206-gtvei14klb8t9opf306luii519qv47st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
